@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Java Backend**
 
-- 📝 I regularly write articles on [https://arasateser.wordpress.com](https://arasateser.wordpress.com)
+- 📝 I post the problems I enjoy and my projects on [https://arasateser.wordpress.com](https://arasateser.wordpress.com)
 
-- 📫 How to reach me **https://www.linkedin.com/in/arasateser**
+- 📫 Reach me here **https://www.linkedin.com/in/arasateser**
 
-- 📄 Know about my experiences [https://arasateser.wordpress.com/resume](https://arasateser.wordpress.com/resume)
+- 📄 My experiences [https://arasateser.wordpress.com/resume](https://arasateser.wordpress.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
