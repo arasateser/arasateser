@@ -7,7 +7,7 @@
 
 - 📝 I post the problems I enjoy and my projects on [https://arasateser.wordpress.com](https://arasateser.wordpress.com)
 
-- 📫 Reach me here **https://www.linkedin.com/in/arasateser**
+- 📫 Reach me here **https://www.linkedin.com/in/arasateser** 
 
 - 📄 My experiences [https://arasateser.wordpress.com/resume](https://arasateser.wordpress.com/resume)
 
