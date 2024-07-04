@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aras</h1>
 <h3 align="center">Passionate new grad Java Developer</h3>
 
-- 🔭 I’m currently working on [Movie Review Application](https://github.com/arasateser/Movie-Review-Application)
+- 🔭 I’m currently working on [a StackOverflow Clone](https://github.com/arasateser/DevSeek-StackOverflow-Clone)
 
 - 🌱 I’m currently learning **Java Backend**
 
